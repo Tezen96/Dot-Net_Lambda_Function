@@ -1,0 +1,4 @@
+# Ignore Visual Studio files
+.vs/
+*.vsix
+*.vscode/
