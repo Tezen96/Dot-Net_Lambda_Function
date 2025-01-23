@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Employee_records.deps.json
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Employee_records.runtimeconfig.json
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Employee_records.pdb
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Gateway.Demo\Employee_records\bin\Release\net8.0\publish\Employee_records.dll

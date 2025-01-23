@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Gateway.Demo\HelloWorldlambda\bin\Release\net8.0\publish\HelloWorldlambda.deps.json
+C:\Users\Dell\source\repos\Gateway.Demo\HelloWorldlambda\bin\Release\net8.0\publish\HelloWorldlambda.runtimeconfig.json
+C:\Users\Dell\source\repos\Gateway.Demo\HelloWorldlambda\bin\Release\net8.0\publish\HelloWorldlambda.pdb
+C:\Users\Dell\source\repos\Gateway.Demo\HelloWorldlambda\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Dell\source\repos\Gateway.Demo\HelloWorldlambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Dell\source\repos\Gateway.Demo\HelloWorldlambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Dell\source\repos\Gateway.Demo\HelloWorldlambda\bin\Release\net8.0\publish\HelloWorldlambda.dll

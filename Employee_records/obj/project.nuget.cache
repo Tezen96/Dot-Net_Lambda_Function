@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uYuqD/AmY6E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Gateway.Demo\\Employee_records\\Employee_records.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\awssdk.core\\3.7.401.3\\awssdk.core.3.7.401.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.405.9\\awssdk.dynamodbv2.3.7.405.9.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.11\\microsoft.netcore.app.runtime.linux-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.11\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.11\\microsoft.netcore.app.crossgen2.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
